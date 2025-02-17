@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Alexey!<br>
 
-<br>I’m a frontend developer with 8+ years of experience in web development. I specialize in building smooth, user-friendly, and visually appealing interfaces, focusing on UI/UX, animations, and interactive graphics.<br>
+<br>I’m a frontend developer with 8+ years of experience in web development. I specialize in building smooth, user-friendly, and visually appealing interfaces, focusing on UI/UX, animations, and interactive graphics.
 
 **<br>🚀 What I Work With**
 <br>	•	Frontend: JavaScript, React.js, Next.js, Chakra UI<br>	•	Backend: Node.js, PostgreSQL, IndexedDB<br>	•	Other Tools & Technologies: Telegram bots, Telegram MiniApps<br>
