@@ -13,10 +13,6 @@
 
 **<br>✍️ Blogging & Insights**
 <br><br>I run [3AWeb](https://t.me/blog_3aweb), which is currently my personal blog on Telegram where I share my thoughts on technology, web development, my projects, and useful tools I find.<br>
-**<br>🤝 Open to Discussions<br>**
-<br>While I’m currently focused full-time on Dash projects development, I’m open to interesting discussions and potential collaborations. Feel free to contact me!<br>
-**<br>🎯 Future Goals<br>**
-<br>I strive to continue creating useful and user-friendly applications while expanding my skills in frontend, backend and Web3 development.
 
 ### 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/390865069195657216) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AlexeyTripleA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andreewsky.alexey@gmail.com) 
