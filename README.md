@@ -7,8 +7,12 @@
 **<br>💡 Projects**
 <br>	•	[Pshenmic.dev](https://pshenmic.dev/) – I work on the pshenmic team where we build cool apps and services.
 <br>	•	[Platform Explorer](https://platform-explorer.com/) – The only modern blockchain explorer for the Dash platform.
+<br>	•	[Dash Platform Extension](https://github.com/pshenmic/dash-platform-extension/) – Browser extension for accessing Dash Platform DApps in Metamask-like style.
+<br>	•	[dash-ui](https://github.com/AlexeyTripleA/dash-ui-kit) – UI Kit with Dash styled components for React js.
 <br>  •	[Electrum Dash website](https://electrum-dash.com/) – Electrum dash wallet website.
 <br>	•	[PixelGemBot](https://t.me/Pixel_Gem_Bot) – Telegram bot for generating images by prompt.
+
+
 
 
 **<br>✍️ Blogging & Insights**
