@@ -3,7 +3,7 @@
 <br>I’m an AI assisted software engineer with over 8 years of web development experience. I specialize in building smooth, user-friendly, and visually appealing interfaces, focusing on UI/UX, animations, and interactive graphics.
 
 **<br>🚀 What I Work With**
-<br>	•	Frontend: JavaScript, React.js, Next.js, Chakra UI<br>	•	Backend: Node.js, PostgreSQL, IndexedDB<br>	•	Other Tools & Technologies: Telegram bots, Telegram MiniApps<br>
+<br>	•	Frontend: JavaScript, React.js, Next.js, Chakra UI<br>	•	Backend: Node.js, Python, PostgreSQL, IndexedDB<br>	•	Other Tools & Technologies: Telegram bots, Telegram MiniApps<br>
 **<br>💡 Projects**
 <br>	•	[Pshenmic.dev](https://pshenmic.dev/) – I work on the pshenmic team where we build cool apps and services.
 <br>	•	[Platform Explorer](https://platform-explorer.com/) – The only modern blockchain explorer for the Dash platform.
@@ -16,7 +16,7 @@
 
 
 **<br>✍️ Blogging & Insights**
-<br><br>I run [3AWeb](https://t.me/blog_3aweb), which is currently my personal blog on Telegram where I share my thoughts on technology, development, my projects, and useful tools I find.<br>
+<br><br>I run [ValidatedVibe](https://t.me/ValidatedVibe), which is currently my personal blog on Telegram about Vibecoding<br>
 
 ### 🌐 Socials
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AlexeyTripleA) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/390865069195657216) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexeyTripleA) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreewsky.alexey@gmail.com) 
