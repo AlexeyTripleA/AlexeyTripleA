@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Alexey!<br>
 
-<br>I’m an AI assisted software engineer with over 8 years of web development experience. I specialize in building smooth, user-friendly, and visually appealing interfaces, focusing on UI/UX, animations, and interactive graphics.
+<br>I’m an AI assisted software engineer with over 8 years of web development experience.
 
 **<br>🚀 What I Work With**
 <br>	•	Frontend: JavaScript, React.js, Next.js, Chakra UI<br>	•	Backend: Node.js, Python, PostgreSQL, IndexedDB<br>	•	Other Tools & Technologies: Telegram bots, Telegram MiniApps<br>
