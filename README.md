@@ -11,6 +11,7 @@
 <br>	•	[dash-ui](https://github.com/AlexeyTripleA/dash-ui-kit) – UI Kit with Dash styled components for React js.
 <br>  •	[Electrum Dash website](https://electrum-dash.com/) – Electrum dash wallet website.
 <br>	•	[PixelGemBot](https://t.me/Pixel_Gem_Bot) – Telegram bot for generating images by prompt.
+<br>	•	[Sora 2 - video generator bot](https://t.me/ClipMakerAiBot) – Telegram bot for generating videos based on prompts using Sora 2.
 
 
 
