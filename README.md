@@ -5,7 +5,7 @@
 **<br>🚀 What I Work With**
 <br>	•	Frontend: JavaScript, React.js, Next.js, Chakra UI<br>	•	Backend: Node.js, Python, PostgreSQL, IndexedDB<br>	•	Other Tools & Technologies: Telegram bots, Telegram MiniApps<br>
 **<br>💡 Projects**
-<br>	•	[Legist.app](https://legist.app/) – Service for checking and amending legal contracts.
+<br>	•	[Legist.app](https://legist.app/?utm_source=github&utm_medium=referral&utm_campaign=main&utm_content=bio) – Service for checking and amending legal contracts.
 <br>	•	[JSON Formater](https://jsonformat.3aweb.org) – Free Online JSON Formatter & Validator
 
  Dash Blockchain Ecosystem:
